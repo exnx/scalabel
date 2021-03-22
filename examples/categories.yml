@@ -1,13 +1,13 @@
-- name: pedestrian
-- name: rider
-- name: other person
-- name: car
-- name: bus
-- name: truck
-- name: train
-- name: trailer
-- name: other vehicle
-- name: motorcycle
-- name: bicycle
-- name: traffic sign
-- name: traffic light
+- name: patient
+- name: medical
+- name: bed
+- name: bmv
+- name: tube
+- name: iv line
+- name: bag iv
+- name: syringe
+- name: stethoscope
+- name: bp cuffs
+- name: leads
+- name: aed
+- name: phone

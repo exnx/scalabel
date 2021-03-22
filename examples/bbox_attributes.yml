@@ -7,22 +7,28 @@
   toolType: switch
   tagText: t
 -
-  name: Traffic Light Color
+  name: Person body part
   toolType: list
   values:
     - NA
-    - G
-    - Y
-    - R
+    - head
+    - chest
+    - arm
+    - leg
+    - neck
+
   tagPrefix: ""
   tagSuffixes:
     - ""
-    - g
-    - y
-    - r
+    - h
+    - c
+    - a
+    - l
+    - n
   tagText: t
   buttonColors:
     - white
     - green
     - yellow
     - red
+    - orange
